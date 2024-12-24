@@ -1,2 +1,2 @@
-# 608-mod1
-My notes and practice from Module 1
+# Learning Python Again
+Foundational notes for lesrning the basics of Python
